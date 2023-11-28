@@ -14,21 +14,32 @@ This section is helpful to refer back to for terminology
 
 ### Python
 
-Python is a program, just like any other, on your computer, it can be run from a `command line` / `terminal`
+`Python` is a program and, just like any other program on your computer, it can be run from a `terminal`.
 
 ### Terminal
 
 A terminal is a way for you to interact with your computer with text, you can type `commands` into a terminal and you will be able to read the output.
 
-![A Screenshot of the Windows Terminal App running Git Bash](images/WindowsTerminal.jpg)
+(See [What terminal should I use?](TERMINALS.md))
 
+![A Screenshot of the Windows Terminal App running Git Bash](images/WindowsTerminalBash.jpg)
 
+Programs take `options` and `arguments`. 
 
-## Running a python script (file that ends with `.py`)
-
-in your terminal type
+`notepad` can open a `txt` file 
 
 ```sh
-$ python3 FILENAME.py
+notepad.exe VeryImportantNotes.txt
 ```
 
+`mspaint` can open a `jpeg` image.
+
+```sh
+mspaint.exe MyHolidayPhoto.jpg
+```
+
+`python` can open `py` scripts.
+
+```sh
+python app.py
+```

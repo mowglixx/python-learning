@@ -22,6 +22,8 @@ You can use the built in `Terminal.app` to run a `zsh` terminal, this is similar
 
 ## Linux
 
-Most Linux distributions come with `Bash` and you can typically run a terminal window by searching your app list (if you have one)
+Most Linux distributions come with `Bash` and you can typically run a terminal window by searching your app list (if you have one), if you don't run a Desktop Environment with your Linux distribution then you should already be using a terminal... 
+
+*You probably don't need to read this section if you're comfortable on Linux*
 
 ![Gnome Terminal on Ubuntu running Bash](images/GnomeTerminalpng.png)
