@@ -8,6 +8,14 @@ Author-Profile: https://github.com/mowglixx
 # python-learning
 Python learning materials
 
+## How to use this repo
+
+Inside the `examples/` folder are some example python scripts for your reference. each example is in it's own folder and has a small readme to explain the code.
+
+*It is recomended to read from [https://github.com/mowglixx/python-learning](https://github.com/mowglixx/python-learning) as GitHub will format the guides better.*
+
+## [Click here to start learning](examples/)
+
 ## What is (a) ...?
 
 This section is helpful to refer back to for terminology
