@@ -1,8 +1,8 @@
 ---
 Language: Python3
-Lesson: "Python Introduction"
-Author: "Dan `mowglixx` Monaghan"
-"Author Profile": [mowglixx@GitHub](https://github.com/mowglixx)
+Lesson: Python Introduction
+Author: Dan `mowglixx` Monaghan
+Author-Profile: https://github.com/mowglixx
 ---
 
 # python-learning
