@@ -2,7 +2,7 @@
 Language: Python3
 Lesson: "Python Introduction"
 Author: "Dan `mowglixx` Monaghan"
-Author Profile: [mowglixx@GitHub](https://github.com/mowglixx)
+"Author Profile": [mowglixx@GitHub](https://github.com/mowglixx)
 ---
 
 # python-learning
