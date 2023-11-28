@@ -15,7 +15,7 @@ def filterPatients(treatment: str, patients: list) -> list:
     # for each patient in the list of patients
     for patient in patients:
         # check each of the diagnosis
-        for diag in patient["diagnoisis"]:
+        for diag in patient["diagnosis"]:
             # if the treatment on the patient is the same as what we are looking for
             if diag["treatment"] == treatment:
                 # add the patient the list of filtered patients
