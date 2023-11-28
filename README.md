@@ -1,7 +1,7 @@
 ---
 Language: Python3
 Lesson: Python Introduction
-Author: Dan `mowglixx` Monaghan
+Author: Dan Monaghan
 Author-Profile: https://github.com/mowglixx
 ---
 
